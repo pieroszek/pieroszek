@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">I like to things with computers :)</h3>
 
 - 🌱 I’m currently learning **Python, C++ and  a lil more**
 
